@@ -2,11 +2,11 @@
 
 ## Substantivoj:
 
-* Ĉiuj emoĝioj estas substantive bazaj.
+* Dekomence, 99% de la emoĝioj estas substantivoj.
 * kato: 🐈
-* katoj: 🐈🐈
+* katoj: 🐈🐈 (pluralo per reuzo de la lasta emoĝio)
 * lavurso: 🧽🐻
-* lavursoj: 🧽🐻🐻 (pluralo per reuzo de la lasta emoĝio)
+* lavursoj: 🧽🐻🐻 
 
 ### Pronomoj:
 
