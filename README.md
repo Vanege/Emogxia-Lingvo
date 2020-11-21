@@ -1,0 +1,2 @@
+# Emogxia-Lingvo
+Emoĝia lingvo
