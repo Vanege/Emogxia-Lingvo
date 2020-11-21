@@ -48,7 +48,7 @@
 * ŝati: 👍⏺
 * egaleco: ⚖️
 * egali al / esti: ⚖️⏺ (nedeviga, utila por klareco)
-> mi vidas malrapidan lavurson: 👈👁⏪🐢ℹ️🧽🐻  
+> mi vidis malrapidan lavurson: 👈👁⏪🐢ℹ️🧽🐻  
 > kato estas bona: 🐈👍 (kato estas bono)  
 
 ## "Korelativoj"
@@ -67,3 +67,9 @@
 > mi manĝas tiam, kiam vi manĝas: 👈🍴⏺🤜⏱ℹ️🤛⏱ℹ️👉🍴⏺ / 👈🍴⏺🤛⏱ℹ️👉🍴⏺  
 > la kato ŝatas tion, kion mi manĝas: 🤜🐈👍⏺🤜🤛👈🍴⏺ / 🤜🐈👍⏺🤛👈🍴⏺  
 
+## Laborota / WIP
+
+* Verboj kaj modifiloj devus eki per la markilo anstataŭ finiĝi per ĝi, ĉar estas pli probable ke frazo enhavas subjekton ol objekton. La markilo helpas ne konfuzi la ekon de verbo kun kunmetaĵo kun la subjekto.
+* Plej kutimaj konjunkcioj
+* Temo-markado
+* Prepozicioj: per "normalaj verboj", per "antaŭfrazoj", malfermita klaso?
